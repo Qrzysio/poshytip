@@ -1,0 +1,24 @@
+{
+  "name": "vadikom-poshytip",
+  "version": "1.2.0",
+  "description": "Poshytip v.1.2.0 forked from original vadikom repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qrzysio/poshytip.git"
+  },
+  "keywords": [
+    "poshytip",
+    "vadikom",
+    "x-editable"
+  ],
+  "author": "vadikom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qrzysio/poshytip/issues"
+  },
+  "homepage": "https://github.com/Qrzysio/poshytip#readme"
+}
